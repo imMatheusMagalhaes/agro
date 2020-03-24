@@ -1,0 +1,4 @@
+#Sat Mar 21 16:12:55 BRT 2020
+base.0=/home/magga/react projetos/agro/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

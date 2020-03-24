@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.61.5] /home/magga/.gradle/caches/transforms-2/files-2.1/46f0f15abfae7e5687aa7756fa7da902/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/magga/.gradle/caches/transforms-2/files-2.1/bb7d8e217c7df7626823c0adf127f408/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/magga/.gradle/caches/transforms-2/files-2.1/726dc312eb0d099a22618771b7b0fa3b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/cd8e2ecc4323789b283e88dc89293e46/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/3326c7d94347f12ced6c1623bf1a80f5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/c23a5897fcefb888ba462ee95d8fc712/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/20995eb89bac773a7690f0b465c7ee8e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/07f1e936a9248b1ea5932376979445b6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/d804084069d353aa2a1c1717edee1419/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/4b2c1b6a928d3862cf2dcdcdcadd0a2a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/magga/.gradle/caches/transforms-2/files-2.1/b36022e6317af4eba674ce5d01538026/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/9e4edc2622f61622a2004512d7617b38/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/3130fccdffe4b109a0291c1725c714c0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/19dcf25e4b975ca7bab36c30bba8a1f7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/656b5bfc1da399b038c94b47d1f504cf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/magga/.gradle/caches/transforms-2/files-2.1/493d158e8e6a00257df2bc2494a44412/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/50f49869452090cc314639945831fd79/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/6d066b460feba0aa03a889869517f909/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/c244f79b3a70c5cd3385c20ca5198472/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/cdf2e69e3c0fabfa3182d33acd6d8a86/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/2833a48007530dc536584dbb749d878a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/dbd904462b98513e33b607eee8e0a79d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/4ad0f5780fc94ddb1b2b252bb529176e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/edc0c9a546febb88a99c5ee6b757e245/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/magga/.gradle/caches/transforms-2/files-2.1/313f637a56bbef7be6a136433e286efd/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/6e316ba706a9489ba816793094b4795f/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/1eeffecd220348851a845eb8d52c8331/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/314c291d02ce995bf89fb1229e9df7c1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/ee84003e64650f44cce07870c81408a2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/b409dce3d3a9cc71f12b5ee8e66604a8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/dd349aa9c304942f22d782305f710c42/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/abb72d2ab0b5eaef8bd180c07477ca2c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/ed2bff19cd0875016f7ef885c8e78c23/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/70214d973cdc324ff957f9eb22e0b23e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/d0160211d6f0dd9d3644730c26b4085e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/82c022fd87a800ba488af94faade393e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/a75a7202e36cabfa666bc36c241686af/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/magga/react projetos/agro/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/magga/react projetos/agro/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/magga/react projetos/agro/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:2:3-21
+		INJECTED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:2:3-21
+		INJECTED from /home/magga/react projetos/agro/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/magga/react projetos/agro/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/magga/react projetos/agro/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/magga/react projetos/agro/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /home/magga/.gradle/caches/transforms-2/files-2.1/46f0f15abfae7e5687aa7756fa7da902/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /home/magga/.gradle/caches/transforms-2/files-2.1/46f0f15abfae7e5687aa7756fa7da902/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/magga/.gradle/caches/transforms-2/files-2.1/b36022e6317af4eba674ce5d01538026/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/magga/.gradle/caches/transforms-2/files-2.1/b36022e6317af4eba674ce5d01538026/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /home/magga/.gradle/caches/transforms-2/files-2.1/313f637a56bbef7be6a136433e286efd/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/magga/.gradle/caches/transforms-2/files-2.1/313f637a56bbef7be6a136433e286efd/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/6e316ba706a9489ba816793094b4795f/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/6e316ba706a9489ba816793094b4795f/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/magga/.gradle/caches/transforms-2/files-2.1/313f637a56bbef7be6a136433e286efd/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/magga/react projetos/agro/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /home/magga/react projetos/agro/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/magga/react projetos/agro/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.agro.MainActivity
+ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.61.5] /home/magga/.gradle/caches/transforms-2/files-2.1/46f0f15abfae7e5687aa7756fa7da902/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/magga/.gradle/caches/transforms-2/files-2.1/46f0f15abfae7e5687aa7756fa7da902/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/magga/.gradle/caches/transforms-2/files-2.1/bb7d8e217c7df7626823c0adf127f408/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/magga/.gradle/caches/transforms-2/files-2.1/bb7d8e217c7df7626823c0adf127f408/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/magga/.gradle/caches/transforms-2/files-2.1/726dc312eb0d099a22618771b7b0fa3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/magga/.gradle/caches/transforms-2/files-2.1/726dc312eb0d099a22618771b7b0fa3b/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/cd8e2ecc4323789b283e88dc89293e46/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/cd8e2ecc4323789b283e88dc89293e46/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/3326c7d94347f12ced6c1623bf1a80f5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/3326c7d94347f12ced6c1623bf1a80f5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/c23a5897fcefb888ba462ee95d8fc712/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/c23a5897fcefb888ba462ee95d8fc712/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/20995eb89bac773a7690f0b465c7ee8e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/20995eb89bac773a7690f0b465c7ee8e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/07f1e936a9248b1ea5932376979445b6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/07f1e936a9248b1ea5932376979445b6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/d804084069d353aa2a1c1717edee1419/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/d804084069d353aa2a1c1717edee1419/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/4b2c1b6a928d3862cf2dcdcdcadd0a2a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/4b2c1b6a928d3862cf2dcdcdcadd0a2a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/magga/.gradle/caches/transforms-2/files-2.1/b36022e6317af4eba674ce5d01538026/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/magga/.gradle/caches/transforms-2/files-2.1/b36022e6317af4eba674ce5d01538026/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/9e4edc2622f61622a2004512d7617b38/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/9e4edc2622f61622a2004512d7617b38/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/3130fccdffe4b109a0291c1725c714c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/3130fccdffe4b109a0291c1725c714c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/19dcf25e4b975ca7bab36c30bba8a1f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/19dcf25e4b975ca7bab36c30bba8a1f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/656b5bfc1da399b038c94b47d1f504cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/656b5bfc1da399b038c94b47d1f504cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/magga/.gradle/caches/transforms-2/files-2.1/493d158e8e6a00257df2bc2494a44412/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/magga/.gradle/caches/transforms-2/files-2.1/493d158e8e6a00257df2bc2494a44412/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/50f49869452090cc314639945831fd79/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/50f49869452090cc314639945831fd79/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/6d066b460feba0aa03a889869517f909/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/6d066b460feba0aa03a889869517f909/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/c244f79b3a70c5cd3385c20ca5198472/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/c244f79b3a70c5cd3385c20ca5198472/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/cdf2e69e3c0fabfa3182d33acd6d8a86/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/cdf2e69e3c0fabfa3182d33acd6d8a86/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/2833a48007530dc536584dbb749d878a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/2833a48007530dc536584dbb749d878a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/dbd904462b98513e33b607eee8e0a79d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/dbd904462b98513e33b607eee8e0a79d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/4ad0f5780fc94ddb1b2b252bb529176e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/4ad0f5780fc94ddb1b2b252bb529176e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/edc0c9a546febb88a99c5ee6b757e245/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/edc0c9a546febb88a99c5ee6b757e245/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/magga/.gradle/caches/transforms-2/files-2.1/313f637a56bbef7be6a136433e286efd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/magga/.gradle/caches/transforms-2/files-2.1/313f637a56bbef7be6a136433e286efd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/6e316ba706a9489ba816793094b4795f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/6e316ba706a9489ba816793094b4795f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/1eeffecd220348851a845eb8d52c8331/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/1eeffecd220348851a845eb8d52c8331/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/314c291d02ce995bf89fb1229e9df7c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/314c291d02ce995bf89fb1229e9df7c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/ee84003e64650f44cce07870c81408a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/ee84003e64650f44cce07870c81408a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/b409dce3d3a9cc71f12b5ee8e66604a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/b409dce3d3a9cc71f12b5ee8e66604a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/dd349aa9c304942f22d782305f710c42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/dd349aa9c304942f22d782305f710c42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/abb72d2ab0b5eaef8bd180c07477ca2c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/abb72d2ab0b5eaef8bd180c07477ca2c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/ed2bff19cd0875016f7ef885c8e78c23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/ed2bff19cd0875016f7ef885c8e78c23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/70214d973cdc324ff957f9eb22e0b23e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/70214d973cdc324ff957f9eb22e0b23e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/d0160211d6f0dd9d3644730c26b4085e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/d0160211d6f0dd9d3644730c26b4085e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/82c022fd87a800ba488af94faade393e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/82c022fd87a800ba488af94faade393e/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/a75a7202e36cabfa666bc36c241686af/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/magga/.gradle/caches/transforms-2/files-2.1/a75a7202e36cabfa666bc36c241686af/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/magga/react projetos/agro/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/magga/react projetos/agro/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/magga/react projetos/agro/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/magga/react projetos/agro/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/magga/react projetos/agro/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/magga/react projetos/agro/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/magga/react projetos/agro/android/app/src/debug/AndroidManifest.xml:5:22-75
